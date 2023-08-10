@@ -35,7 +35,7 @@ function ConvertTo-AsciiArt {
 }
 
 # Call the function
-$asciiArt = ConvertTo-AsciiArt -ImagePath "sample-img/sample.png" -Width 80
+$asciiArt = ConvertTo-AsciiArt -ImagePath "path/to/image.png" -Width 80
 
 # Print the ascii art
 $asciiArt
