@@ -1,10 +1,10 @@
 # generate_AA
 
-CLI ver.  
+CLI ver (ascii.ps1).  
 
 ![aa](https://github.com/KentaGoto/generate_AA/assets/10069642/ab397394-4c6b-4c18-bc7c-bb928ad9a144)
 
-GUI ver.  
+GUI ver (gui_ascii.ps1).  
 
 ![window](https://github.com/KentaGoto/generate_AA/assets/10069642/3bcf7ad5-0745-42d4-8ba9-ac6d7886cb53)
 
